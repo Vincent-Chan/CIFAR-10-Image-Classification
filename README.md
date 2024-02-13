@@ -12,7 +12,7 @@ This is a Python project that demonstrates the image classification of 10 types 
 4. Chang the runtime type to T4 GPU.
 5. Run all your code once, you should see the classification result.
 
-*Note: You may change the following lines of code by replacing 0 with an integer between 0 to 9999 (both inclusively):*
+*Note: You may change the following line of code by replacing 0 with an integer between 0 to 9999 (both inclusively):*
 ```
 image_number = 0
 ```
